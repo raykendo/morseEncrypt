@@ -8,3 +8,5 @@ Uses for this bookmarklet
 * Sending secret messages to your friends
 
 Some sites use a div with contentEditable=true instead of a textarea, which is why the separate translation form was added. Also, the bookmarklet cannotmodify html enclosed in an iframe. 
+
+.--- ..- ... -  / .----  / ... .- -- .--. .-.. .  / --- ..-.  / .-- .... .- -  / - .... .. ...  / -... --- --- -.- -- .- .-. -.- .-.. . -  / -.-. .- -.  / -.. --- .-.-.- 
